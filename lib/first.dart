@@ -16,7 +16,7 @@ class _MainPageState extends State<MainPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(160, 0, 0, 0),
+      backgroundColor:Color.fromARGB(255, 17, 68, 4),
       body:SafeArea(
         child:Padding(
           padding: const EdgeInsets.only(left: 40,right: 40,top: 90,bottom: 30),
