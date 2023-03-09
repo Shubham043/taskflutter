@@ -30,7 +30,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(160, 0, 0, 0),
+      backgroundColor: Color.fromARGB(159, 255, 255, 255,
       body: SafeArea(
        
        child:  Column(
